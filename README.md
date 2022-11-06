@@ -1,4 +1,4 @@
-# The Weather Application
+# The Weather Application (4 November 2022)
 
 >  ## Why was this app made?
 > You have been sent abroad for a 10-month work mission. Your family and friends back home ask you about the weather where you live ALL. THE. TIME.
